@@ -1,6 +1,8 @@
 // Copyright (c) 2021 Razeware LLC
 // For full license & permission details, see LICENSE.
 
+// ignore_for_file: unused_local_variable, equal_elements_in_set, prefer_is_empty
+
 void main() {
   /// Lists
   basicListOperations();

@@ -1,6 +1,8 @@
 // Copyright (c) 2021 Razeware LLC
 // For full license & permission details, see LICENSE.
 
+// ignore_for_file: unused_local_variable, omit_local_variable_types, prefer_single_quotes
+
 // If you get the error "Target of URI doesn't exist", make sure you have
 // run `dart pub get`. Then restart VS Code.
 import 'package:characters/characters.dart';
@@ -126,6 +128,7 @@ doing this.''';
   //   'a single '
   //   'line '
   //   'at runtime.';
+  // ignore: prefer_adjacent_string_concatenation
   const oneLine = 'This is only ' + 'a single ' + 'line ' + 'at runtime.';
   print(oneLine);
 

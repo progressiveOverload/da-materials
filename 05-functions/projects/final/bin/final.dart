@@ -1,6 +1,8 @@
 // Copyright (c) 2021 Razeware LLC
 // For full license & permission details, see LICENSE.
 
+// ignore_for_file: unused_local_variable, unused_element, always_declare_return_types, omit_local_variable_types
+
 /// Since this lesson is about functions, the source code also
 /// uses nested functions to divide the sections out. This
 /// prevents the main function from getting too long. Notice that

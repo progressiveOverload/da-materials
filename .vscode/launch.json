@@ -1,0 +1,230 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "challenge",
+            "cwd": "02-expressions-variables-constants\\projects\\challenge",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "final",
+            "cwd": "02-expressions-variables-constants\\projects\\final",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "mini_exercise",
+            "cwd": "02-expressions-variables-constants\\projects\\mini_exercise",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "starter",
+            "cwd": "02-expressions-variables-constants\\projects\\starter",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "challenge",
+            "cwd": "03-types-and-operations\\projects\\challenge",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "final",
+            "cwd": "03-types-and-operations\\projects\\final",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "mini_exercise",
+            "cwd": "03-types-and-operations\\projects\\mini_exercise",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "starter",
+            "cwd": "03-types-and-operations\\projects\\starter",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "challenge",
+            "cwd": "04-control-flow\\projects\\challenge",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "final",
+            "cwd": "04-control-flow\\projects\\final",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "mini_exercise",
+            "cwd": "04-control-flow\\projects\\mini_exercise",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "starter",
+            "cwd": "04-control-flow\\projects\\starter",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "challenge",
+            "cwd": "05-functions\\projects\\challenge",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "final",
+            "cwd": "05-functions\\projects\\final",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "mini_exercise",
+            "cwd": "05-functions\\projects\\mini_exercise",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "starter",
+            "cwd": "05-functions\\projects\\starter",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "challenge",
+            "cwd": "06-classes\\projects\\challenge",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "final",
+            "cwd": "06-classes\\projects\\final",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "mini_exercise",
+            "cwd": "06-classes\\projects\\mini_exercise",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "starter",
+            "cwd": "06-classes\\projects\\starter",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "challenge",
+            "cwd": "07-nullability\\projects\\challenge",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "final",
+            "cwd": "07-nullability\\projects\\final",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "mini_exercise",
+            "cwd": "07-nullability\\projects\\mini_exercise",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "starter",
+            "cwd": "07-nullability\\projects\\starter",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "challenge",
+            "cwd": "08-collections\\projects\\challenge",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "final",
+            "cwd": "08-collections\\projects\\final",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "mini_exercise",
+            "cwd": "08-collections\\projects\\mini_exercise",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "starter",
+            "cwd": "08-collections\\projects\\starter",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "challenge",
+            "cwd": "09-advanced-classes\\projects\\challenge",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "final",
+            "cwd": "09-advanced-classes\\projects\\final",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "mini_exercise",
+            "cwd": "09-advanced-classes\\projects\\mini_exercise",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "starter",
+            "cwd": "09-advanced-classes\\projects\\starter",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "challenge",
+            "cwd": "10-asynchronous-programming\\projects\\challenge",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "final",
+            "cwd": "10-asynchronous-programming\\projects\\final",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "mini_exercise",
+            "cwd": "10-asynchronous-programming\\projects\\mini_exercise",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "starter",
+            "cwd": "10-asynchronous-programming\\projects\\starter",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "hello_dart_project",
+            "cwd": "01-your-dart-development-environment\\projects\\final\\hello_dart_project",
+            "request": "launch",
+            "type": "dart"
+        }
+    ]
+}

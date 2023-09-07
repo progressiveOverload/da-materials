@@ -1,6 +1,8 @@
 // Copyright (c) 2021 Razeware LLC
 // For full license & permission details, see LICENSE.
 
+// ignore_for_file: unused_local_variable, omit_local_variable_types
+
 import 'dart:math';
 
 void main() {

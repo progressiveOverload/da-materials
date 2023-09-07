@@ -1,6 +1,8 @@
 // Copyright (c) 2021 Razeware LLC
 // For full license & permission details, see LICENSE.
 
+// ignore_for_file: omit_local_variable_types
+
 import 'dart:math';
 
 void main() {
@@ -8,7 +10,9 @@ void main() {
   ///
   /// Did you know that the sine of `45°` equals `1` over the square root
   /// of `2`? Try it out!
-
+  var nummer = sin(45);
+  var num2 = sqrt(2).toInt();
+  if (nummer == num2) print("$nummer is same $num2");
   // Remember to add the `dart:math` import at the top of the file.
   print(sin(45 * pi / 180));
   print(1 / sqrt(2));
@@ -17,17 +21,17 @@ void main() {
   ///
   /// Declare a constant of type `int` called `myAge` and set it to your age.
 
-  const myAge = 98;
+  const myAge = 31;
   print(myAge);
 
   /// Naming data: Mini-exercise 2
   ///
   /// Declare a variable of type `double` called `averageAge`. Initially, set
-  /// the variable to your own age. Then, set it to the average of your age and 
+  /// the variable to your own age. Then, set it to the average of your age and
   /// your best friend's age.
 
-  double averageAge = 98;
-  averageAge = (98 + 27) / 2;
+  double averageAge = 31;
+  averageAge = (31 + 27) / 2;
   print(averageAge);
 
   /// Naming data: Mini-exercise 3
@@ -39,7 +43,7 @@ void main() {
 
   const testNumber = 42;
   const evenOdd = testNumber % 2;
-  print(evenOdd);
+  print('$evenOdd is 0 if $testNumber is even');
   // `evenOdd` is 0 if `testNumber` is even.
   // `evenOdd` is 1 if `testNumber` is odd.
 }

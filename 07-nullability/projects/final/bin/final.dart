@@ -1,6 +1,8 @@
 // Copyright (c) 2021 Razeware LLC
 // For full license & permission details, see LICENSE.
 
+// ignore_for_file: unused_local_variable, dead_code, body_might_complete_normally_nullable, omit_local_variable_types, unused_element
+
 void main() {
   // Null overview
   whatNullMeans();

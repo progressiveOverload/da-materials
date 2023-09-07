@@ -3,7 +3,7 @@
   "packages": [
     {
       "name": "pedantic",
-      "rootUri": "file:///Users/jonathan/.pub-cache/hosted/pub.dartlang.org/pedantic-1.11.0",
+      "rootUri": "file:///C:/Users/cihan/AppData/Local/Pub/Cache/hosted/pub.dev/pedantic-1.11.1",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
@@ -14,7 +14,7 @@
       "languageVersion": "2.12"
     }
   ],
-  "generated": "2021-03-20T03:31:58.043402Z",
+  "generated": "2023-09-06T07:09:25.286312Z",
   "generator": "pub",
-  "generatorVersion": "2.12.2"
+  "generatorVersion": "3.0.5"
 }
